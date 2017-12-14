@@ -19,4 +19,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/serranodsdd/proprietary/vendor/lib/libsec-ril.so:system/vendor/lib/libsec-ril.so \
     vendor/samsung/serranodsdd/proprietary/vendor/lib/libsec-ril-dsds.so:system/vendor/lib/libsec-ril-dsds.so \
     vendor/samsung/serranodsdd/proprietary/vendor/lib/libaudcal.so:system/vendor/lib/libaudcal.so \
-    vendor/samsung/serranodsdd/proprietary/vendor/lib/libloc_api_v02.so:system/vendor/lib/libloc_api_v02.so
+    vendor/samsung/serranodsdd/proprietary/vendor/lib/libloc_api_v02.so:system/vendor/lib/libloc_api_v02.so \
+    vendor/samsung/serranodsdd/proprietary/vendor/lib/libtime_genoff.so:system/vendor/lib/libtime_genoff.so \
+    vendor/samsung/serranodsdd/proprietary/lib/libstlport.so:system/lib/libstlport.so
