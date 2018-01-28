@@ -17,5 +17,6 @@
 
 PRODUCT_COPY_FILES += \
     vendor/samsung/serrano3gxx/proprietary/vendor/lib/libsec-ril.so:system/vendor/lib/libsec-ril.so \
+    vendor/samsung/serrano3gxx/proprietary/vendor/lib/libtime_genoff.so:system/vendor/lib/libtime_genoff.so \
     vendor/samsung/serrano3gxx/proprietary/vendor/lib/libaudcal.so:system/vendor/lib/libaudcal.so \
     vendor/samsung/serrano3gxx/proprietary/vendor/lib/libloc_api_v02.so:system/vendor/lib/libloc_api_v02.so
